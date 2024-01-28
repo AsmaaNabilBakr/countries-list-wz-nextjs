@@ -3,7 +3,7 @@
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-
+This project Deployed on: https://world-countries-kappa.vercel.app/
 ## The challenge
 
 integrate with the [REST Countries API](https://restcountries.com) to pull country data and display it like in the designs.
